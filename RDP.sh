@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "ENJOY YOURSELF - from gouidea" >&2
+printf "ENJOY YOURSELF & BE PATIENT... - from gouidea" >&2
 {
 sudo useradd -m gouidea
 sudo adduser gouidea sudo
